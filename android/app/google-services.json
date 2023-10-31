@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111568362235",
+    "project_id": "economyapp-a7fed",
+    "storage_bucket": "economyapp-a7fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111568362235:android:e4814bd7f5546894bdee5e",
+        "android_client_info": {
+          "package_name": "com.economyapp.economyApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ov-ZVHEIbZR1xBNfRL4finW4nNNxK8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
